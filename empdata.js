@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "first name": "James Bond",
+      "first_name": "James Bond",
       "designation": "Accountant",
       "salary": "$170,750",
       "joining_date": "2011/07/25",
@@ -9,7 +9,7 @@
       "extension": "8422"
     },
     {
-      "first name": "Brielle Williamson",
+      "first_name": "Brielle Williamson",
       "designation": "Integration Specialist",
       "salary": "$372,000",
       "joining_date": "2012/12/02",
@@ -17,7 +17,7 @@
       "extension": "4804"
     },
     {
-      "first name": "Ashton Cox",
+      "first_name": "Ashton Cox",
       "designation": "Junior Technical Author",
       "salary": "$86,000",
       "joining_date": "2009/01/12",
@@ -25,7 +25,7 @@
       "extension": "1562"
     },
     {
-      "first name": "Airi Satou",
+      "first_name": "Airi Satou",
       "designation": "Accountant",
       "salary": "$162,700",
       "joining_date": "2008/11/28",
@@ -33,7 +33,7 @@
       "extension": "5407"
     },
     {
-      "first name": "Caesar Vance",
+      "first_name": "Caesar Vance",
       "designation": "Pre-Sales Support",
       "salary": "$106,450",
       "joining_date": "2011/12/12",
@@ -41,7 +41,7 @@
       "extension": "8330"
     },
     {
-      "first name": "Shad Decker",
+      "first_name": "Shad Decker",
       "designation": "Regional Director",
       "salary": "$183,000",
       "joining_date": "2008/11/13",
@@ -49,7 +49,7 @@
       "extension": "6373"
     },
     {
-      "first name": "Cedric Kelly",
+      "first_name": "Cedric Kelly",
       "designation": "Senior Javascript Developer",
       "salary": "$433,060",
       "joining_date": "2012/03/29",
@@ -57,7 +57,7 @@
       "extension": "6224"
     },
     {
-      "first name": "Haley Kennedy",
+      "first_name": "Haley Kennedy",
       "designation": "Senior Marketing Designer",
       "salary": "$313,500",
       "joining_date": "2012/12/18",
@@ -65,7 +65,7 @@
       "extension": "3597"
     },
     {
-      "first name": "Colleen Hurst",
+      "first_name": "Colleen Hurst",
       "designation": "Javascript Developer",
       "salary": "$205,500",
       "joining_date": "2009/09/15",
@@ -73,7 +73,7 @@
       "extension": "2360"
     },
     {
-      "first name": "Dai Rios",
+      "first_name": "Dai Rios",
       "designation": "Personnel Lead",
       "salary": "$217,500",
       "joining_date": "2012/09/26",
@@ -81,7 +81,7 @@
       "extension": "2290"
     },
     {
-      "first name": "Herrod Chandler",
+      "first_name": "Herrod Chandler",
       "designation": "Sales Assistant",
       "salary": "$137,500",
       "joining_date": "2012/08/06",
@@ -89,7 +89,7 @@
       "extension": "9608"
     },
     {
-      "first name": "Rhona Davidson",
+      "first_name": "Rhona Davidson",
       "designation": "Integration Specialist",
       "salary": "$327,900",
       "joining_date": "2010/10/14",
@@ -97,7 +97,7 @@
       "extension": "6200"
     },
     {
-      "first name": "Sonya Frost",
+      "first_name": "Sonya Frost",
       "designation": "Software Engineer",
       "salary": "$103,600",
       "joining_date": "2008/12/13",
@@ -105,7 +105,7 @@
       "extension": "1667"
     },
     {
-      "first name": "Jena Gaines",
+      "first_name": "Jena Gaines",
       "designation": "Office Manager",
       "salary": "$90,560",
       "joining_date": "2008/12/19",
@@ -113,7 +113,7 @@
       "extension": "3814"
     },
     {
-      "first name": "Quinn Flynn",
+      "first_name": "Quinn Flynn",
       "designation": "Support Lead",
       "salary": "$342,000",
       "joining_date": "2013/03/03",

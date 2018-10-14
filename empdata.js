@@ -41,12 +41,68 @@
       "year": "Sophomore"
     },
     {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
+      "first_name": "Harrison",
+      "last_name": "Jones",
+      "email": "HJones@seattleu.edu",
+      "studentid": "hjon2977",
+      "major": "Nursing",
+      "year": "Junior"
+    },
+    {
+      "first_name": "Bryant",
+      "last_name": "Walters",
+      "email": "BWalters@seattleu.edu",
+      "studentid": "bwal1267",
+      "major": "Mathematics",
+      "year": "Senior"
+    },
+    {
+      "first_name": "Vanessa",
+      "last_name": "Paul",
+      "email": "VPaul@seattleu.edu",
+      "studentid": "vpau6913",
+      "major": "Engineering",
+      "year": "Freshman"
+    },
+    {
+      "first_name": "Nora",
+      "last_name": "Andrews",
+      "email": "NAndrews@seattleu.edu",
+      "studentid": "nand7519",
       "major": "Finance",
       "year": "Junior"
+    },
+    {
+      "first_name": "Carly",
+      "last_name": "James",
+      "email": "CJames@seattleu.edu",
+      "studentid": "cjam5469",
+      "major": "Nursing",
+      "year": "Freshman"
+    },
+    {
+      "first_name": "Elizabeth",
+      "last_name": "Waters",
+      "email": "EWaters@seattleu.edu",
+      "studentid": "ewat9831",
+      "major": "Finance",
+      "year": "Sophomore"
+    },
+    {
+      "first_name": "Natalie",
+      "last_name": "Meyers",
+      "email": "NMeyers@seattleu.edu",
+      "studentid": "nmey7265",
+      "major": "Accouting",
+      "year": "Junior"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Charles",
+      "email": "DCharles@seattleu.edu",
+      "studentid": "dcha3762",
+      "major": "Engineering",
+      "year": "Senior"
     },
     {
       "first_name": "Julia",
@@ -57,67 +113,11 @@
       "year": "Junior"
     },
     {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
-      "year": "Junior"
-    },
-    {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
-      "year": "Junior"
-    },
-    {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
-      "year": "Junior"
-    },
-    {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
-      "year": "Junior"
-    },
-    {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
-      "year": "Junior"
-    },
-    {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
-      "year": "Junior"
-    },
-    {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
-      "year": "Junior"
-    },
-    {
-      "first_name": "Julia",
-      "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
-      "studentid": "jand9845",
-      "major": "Finance",
+      "first_name": "Josh",
+      "last_name": "Peterson",
+      "email": "JPeterson@seattleu.edu",
+      "studentid": "jpet6827",
+      "major": "Accouting",
       "year": "Junior"
     }
   ]

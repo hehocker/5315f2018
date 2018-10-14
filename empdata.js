@@ -1,28 +1,28 @@
 {
   "data": [
     {
-      "name": "James",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "first_name": "Allison",
+      "last_name": "Williams",
+      "email": "Awilliams@seattleu.edu",
+      "studentid": "awil1257",
+      "major": "Mathematics",
+      "year": "Freshman"
     },
     {
-      "first_name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "first_name": "Mark",
+      "last_name": "Smith",
+      "email": "Msmith@seattleu.edu",
+      "studentid": "asmi7455",
+      "major": "Engineering",
+      "year": "Senior"
     },
     {
-      "first_name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junion"
     },
     {
       "first_name": "Airi Satou",

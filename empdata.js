@@ -3,7 +3,7 @@
     {
       "first_name": "Allison",
       "last_name": "Williams",
-      "email": "Awilliams@seattleu.edu",
+      "email": "AWilliams@seattleu.edu",
       "studentid": "awil1257",
       "major": "Mathematics",
       "year": "Freshman"
@@ -11,10 +11,34 @@
     {
       "first_name": "Mark",
       "last_name": "Smith",
-      "email": "Msmith@seattleu.edu",
+      "email": "MSmith@seattleu.edu",
       "studentid": "asmi7455",
       "major": "Engineering",
       "year": "Senior"
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Ferguson",
+      "email": "EFerguson@seattleu.edu",
+      "studentid": "efer8236",
+      "major": "Mathematics",
+      "year": "Senior"
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Thomas",
+      "email": "NThomas@seattleu.edu",
+      "studentid": "ntho6345",
+      "major": "Engineering",
+      "year": "Freshman"
+    },
+    {
+      "first_name": "Glen",
+      "last_name": "Parker",
+      "email": "GParker@seattleu.edu",
+      "studentid": "gpar1982",
+      "major": "Accouting",
+      "year": "Sophomore"
     },
     {
       "first_name": "Julia",
@@ -22,103 +46,79 @@
       "email": "Janderson@seattleu.edu",
       "studentid": "jand9845",
       "major": "Finance",
-      "year": "Junion"
+      "year": "Junior"
     },
     {
-      "first_name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     },
     {
-      "first_name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
-    },
-    {
-      "first_name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
-    },
-    {
-      "first_name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "first_name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "first_name": "Julia",
+      "last_name": "Anderson",
+      "email": "Janderson@seattleu.edu",
+      "studentid": "jand9845",
+      "major": "Finance",
+      "year": "Junior"
     }
   ]
 }

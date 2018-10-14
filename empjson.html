@@ -10,7 +10,7 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>Name</th>
+                <th>First Name</th>
                 <th>Designation</th>
                 <th>Office</th>
                 <th>Extension</th>
@@ -20,7 +20,7 @@
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
+                <th>First Name</th>
                 <th>Designation</th>
                 <th>Office</th>
                 <th>Extension</th>
@@ -40,7 +40,7 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "name"},
+                {"data": "first_name"},
                 {"data": "designation"},
                 {"data": "office"},
                 {"data": "extension"},

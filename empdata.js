@@ -69,8 +69,8 @@
       "last_name": "Andrews",
       "email": "NAndrews@seattleu.edu",
       "studentid": "nand7519",
-      "major": "Finance",
-      "year": "Junior"
+      "major": "Nursing",
+      "year": "Sophomore"
     },
     {
       "first_name": "Carly",
@@ -107,7 +107,7 @@
     {
       "first_name": "Julia",
       "last_name": "Anderson",
-      "email": "Janderson@seattleu.edu",
+      "email": "JAnderson@seattleu.edu",
       "studentid": "jand9845",
       "major": "Finance",
       "year": "Junior"
